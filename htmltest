@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Audiowide|Creepster|Graduate|Monoton|Lobster|Playball&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <title>Seething Cauldron</title>
+</head>
+<body>
+    <header>Justin D. Cotton <span class="subtitle">Software Developer</span>
+        <a href="https://github.com/JustinCotton" target="new"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/justindcotton/" target="new"><i class="fab fa-linkedin"></i></a>
+        <a href="./img/JustinCottonResumeSoftware.pdf" target="pdf-frame"><i class="far fa-id-card"></i></a>
+    </header>
+    <div class="leftpanel">
+        <img src="./img/PortfolioHeadshot2.jpg" class="headshot"/>
+        <!-- <p class="bio">Having completed a 12-week, full-time software bootcamp, I am excited to create useful, powerful, and scalable applications that entertain and delight end users. I create software (React, Python, Javascript), smart contracts (Solidity), and decentralized apps (Ethereum blockchain) for the entrepreneurs of tomorrow.</p> -->
+    </div>
+</body>
